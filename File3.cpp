@@ -19,3 +19,5 @@ Modified in Local 11:04.
   modify GitHub first.
 
 Test Git merge, by first git add in local.
+  Test git merge, modified from GitHub.
+
