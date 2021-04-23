@@ -10,3 +10,6 @@ This time tests merge (this line added in working space).
   Add another line in GitHub.
   
 Add a line in local.
+
+  Add a 3rd line in GitHub.
+
