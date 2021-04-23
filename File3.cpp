@@ -8,3 +8,5 @@ Test if local has some changes, and remote also has some changes (this line adde
   write a line in local. Added to "local index", but not commited.
 
 Add a line in github.
+
+Add a line in local.
