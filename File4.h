@@ -8,3 +8,5 @@ This time tests merge (this line added in working space).
   Add a line in GitHub.
   
   Add another line in GitHub.
+  
+Add a line in local.
