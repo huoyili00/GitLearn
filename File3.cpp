@@ -16,3 +16,4 @@ Add a line in local.
 
 Modified in Local 11:04.
 
+  modify GitHub first.
